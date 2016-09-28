@@ -6,7 +6,7 @@
 #include <stdlib.h> 
 
 int main(){ 
-  int one = 600851475143 ; 
+  int one = 5355; 
   int two = 1; 
   int three = two;
   while (one!=two) {
