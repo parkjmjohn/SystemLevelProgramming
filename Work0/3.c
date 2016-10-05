@@ -10,7 +10,7 @@ int main(){
   int two = 1; 
   int three = two;
   while (one!=two) {
-    if (one % two == 0){
+    if (one % two != 0){
       three = two;
     }
     two++;
